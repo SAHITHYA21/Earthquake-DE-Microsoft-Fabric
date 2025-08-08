@@ -58,7 +58,9 @@ The final **Gold Layer datasets** are connected to Power BI to create interactiv
 - Display earthquake significance and depth on interactive maps.
 
 Dashboard Screenshot: 
-![image](https://github.com/user-attachments/assets/fbce74df-035c-40cc-bfab-566addd751aa)
+![image](https://github.com/SAHITHYA21/Earthquake-DE-Microsoft-Fabric/blob/cc4c4aa45211c00d7cab213fc47a2ba51b24e1fc/powerBI.png)
+
+---
 
 ## 📊 Data Attributes
 

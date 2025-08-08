@@ -50,6 +50,16 @@ This architecture ensures **data accuracy, scalability, and performance optimiza
 
 ---
 
+## 📊 Power BI Dashboard
+The final **Gold Layer datasets** are connected to Power BI to create interactive dashboards that allow users to:
+- Visualize global earthquake activity in real time.
+- Filter events by magnitude, region, or time period.
+- Analyze historical seismic trends to identify high-risk zones.
+- Display earthquake significance and depth on interactive maps.
+
+Dashboard Screenshot: 
+![image](https://github.com/user-attachments/assets/fbce74df-035c-40cc-bfab-566addd751aa)
+
 ## 📊 Data Attributes
 
 | Attribute           | Type     | Description |
